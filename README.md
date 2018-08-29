@@ -23,8 +23,7 @@ Given the data set we have to estimate the Gaussian distribution for each of the
  p(x; µ, σ^2 ) = 1 /√ 2πσ^2* e ^− (x−µ)^2/ 2σ^2 ,
  where µ is the mean and σ 2 controls the variance.
 
-
-
+![image](https://user-images.githubusercontent.com/22303570/44807795-194c6700-abe8-11e8-944e-078326fe1689.png)
 
 
 ### 2. SVM
