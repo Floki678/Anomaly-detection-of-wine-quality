@@ -67,7 +67,8 @@ The classes are ordered and not balanced (e.g. there are much more normal wines 
 10 - sulphates   
 11 - alcohol  
 
-Output variable (based on sensory data):   
+Output variable (based on sensory data):
+
 12 - quality (score between 0 and 10)  
 
 
