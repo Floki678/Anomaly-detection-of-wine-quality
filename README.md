@@ -30,8 +30,7 @@ Given the data set we have to estimate the Gaussian distribution for each of the
 ### 2. SVM
 Support vector machines (SVM) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a dataset, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall.
 
-
-
+![image](https://user-images.githubusercontent.com/22303570/44807677-c70b4600-abe7-11e8-93c3-9d9021a15a74.png)
 
 ### 3.Circular K-Means
 K-means clustering is used for cluster analysis in data mining. K-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean. We have used a modified version of this algorithm, where we try to find the points with distance greater than alpha  times the average distance of all the points from centroid.  
