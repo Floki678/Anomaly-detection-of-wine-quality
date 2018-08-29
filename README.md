@@ -35,6 +35,7 @@ Support vector machines (SVM) are supervised learning models with associated lea
 ### 3.Circular K-Means
 K-means clustering is used for cluster analysis in data mining. K-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean. We have used a modified version of this algorithm, where we try to find the points with distance greater than alpha  times the average distance of all the points from centroid.  
 
+![image](https://user-images.githubusercontent.com/22303570/44807743-f5892100-abe7-11e8-99d6-19e6165782a0.png)
 
 
 ## Parameter Settings
