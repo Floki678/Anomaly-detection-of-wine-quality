@@ -24,6 +24,9 @@ Given the data set we have to estimate the Gaussian distribution for each of the
  where µ is the mean and σ 2 controls the variance.
 
 
+
+
+
 ### 2. SVM
 Support vector machines (SVM) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. Given a dataset, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall.
 
@@ -43,6 +46,8 @@ For the SVM model, we choose the nu and gamma parameters which would work best f
 
 
 
+
+
 ## DATASET DESCRIPTION
 
 Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal.
@@ -50,18 +55,19 @@ Our dataset consists of 4898 instances and 12 attributes.
 The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones). 
 
 ### Attribute Information:
-1 - fixed acidity 
-2 - volatile acidity 
-3 - citric acid 
-4 - residual sugar 
-5 - chlorides 
-6 - free sulfur dioxide 
-7 - total sulfur dioxide 
-8 - density 
-9 - pH 
-10 - sulphates 
-11 - alcohol 
-Output variable (based on sensory data): 
-12 - quality (score between 0 and 10)
+1 - fixed acidity  
+2 - volatile acidity  
+3 - citric acid  
+4 - residual sugar   
+5 - chlorides  
+6 - free sulfur dioxide   
+7 - total sulfur dioxide  
+8 - density  
+9 - pH  
+10 - sulphates   
+11 - alcohol  
+
+Output variable (based on sensory data):   
+12 - quality (score between 0 and 10)  
 
 
